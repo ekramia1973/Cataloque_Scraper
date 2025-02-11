@@ -1,2 +1,2 @@
 # Cataloque_Scraper
-scrapes the products data from industriehof.com commercial website. Performs asynchronous search, extract, and saving with superfast speed! 20,000 products in a matter of a couple of minutes!
+A pure Python script that scrapes the products data from the industriehof.com commercial website. Performs asynchronous search, extract, and save (sqlite3 and csv) with superfast speed! 20,000 products in a matter of a couple of minutes!
